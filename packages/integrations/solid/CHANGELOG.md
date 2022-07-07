@@ -1,5 +1,11 @@
 # @astrojs/solid-js
 
+## 0.2.1
+
+### Patch Changes
+
+- [`515e8765`](https://github.com/withastro/astro/commit/515e876598c391f3824a82b757042198e0729ca6) Thanks [@FredKSchott](https://github.com/FredKSchott)! - Update peerDependencies to "solid@^1.4.3"
+
 ## 0.2.0
 
 ### Minor Changes

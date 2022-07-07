@@ -1,5 +1,20 @@
 # astro
 
+## 1.0.0-beta.65
+
+### Patch Changes
+
+- [#3842](https://github.com/withastro/astro/pull/3842) [`08fa0772`](https://github.com/withastro/astro/commit/08fa0772abb49b892fa03198fa16964161b9618d) Thanks [@bholmesdev](https://github.com/bholmesdev)! - Docs: add complete "adapter" configuration reference
+
+* [#3848](https://github.com/withastro/astro/pull/3848) [`502f0631`](https://github.com/withastro/astro/commit/502f0631317fe1b23582d4126c44f44cb0b0716f) Thanks [@matthewp](https://github.com/matthewp)! - Allow importing the Image component from @astrojs/image
+
+- [#3801](https://github.com/withastro/astro/pull/3801) [`b84bd7db`](https://github.com/withastro/astro/commit/b84bd7db63c29aede9a63940e2e7dbdc7eca28db) Thanks [@Princesseuh](https://github.com/Princesseuh)! - Update JSX definitions with element specific types and added some missing attributes
+
+* [#3837](https://github.com/withastro/astro/pull/3837) [`5afb8076`](https://github.com/withastro/astro/commit/5afb807688750fce7024e630203fbc48dcef267a) Thanks [@natemoo-re](https://github.com/natemoo-re)! - Fix usage of slots inside expressions
+
+* Updated dependencies [[`eedb32c7`](https://github.com/withastro/astro/commit/eedb32c79716a8e04acd46cb2c74c5af112e016f)]:
+  - @astrojs/telemetry@0.2.5
+
 ## 1.0.0-beta.64
 
 ### Patch Changes

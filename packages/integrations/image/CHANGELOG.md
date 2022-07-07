@@ -1,5 +1,11 @@
 # @astrojs/image
 
+## 0.0.5
+
+### Patch Changes
+
+- [#3848](https://github.com/withastro/astro/pull/3848) [`502f0631`](https://github.com/withastro/astro/commit/502f0631317fe1b23582d4126c44f44cb0b0716f) Thanks [@matthewp](https://github.com/matthewp)! - Allow importing the Image component from @astrojs/image
+
 ## 0.0.4
 
 ### Patch Changes
